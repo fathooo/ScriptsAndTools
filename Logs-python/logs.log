@@ -1,0 +1,5 @@
+INFO:__main__:{'success': True, 'returnFunc': 3, 'meta': {'function': 'example_function', 'code_id': '1cb9d8a81b871db82d8aebdf86f853ff241acda5'}, 'duration': 0.0, 'date': '2023-03-21T19:43:07.965833'}
+INFO:__main__:{'success': True, 'returnFunc': 0.5, 'meta': {'function': 'example_function2', 'code_id': '29d63632e76bc607c15d810fc0b827a5aba8bbca'}, 'duration': 0.0, 'date': '2023-03-21T19:43:07.966828'}
+INFO:__main__:{'success': True, 'returnFunc': None, 'meta': {'function': 'example_function3', 'code_id': '62022f5dfa09f3c2c63304e98e987614724618b4'}, 'duration': 0.0, 'date': '2023-03-21T19:43:07.966828'}
+INFO:__main__:{'success': True, 'returnFunc': 2, 'meta': {'function': 'example_function4', 'code_id': '3bca3acf213f19acebf5a0032afe905579bbbf7f'}, 'duration': 0.0, 'date': '2023-03-21T19:43:07.966828'}
+ERROR:__main__:{'success': False, 'message': None, 'error': {'type': 'ValueError', 'info': 'Error grave'}, 'meta': {'function': 'example_function5', 'code_id': 'e5dceb70e09ad642d13e3ca2b9852caac9a008b1'}, 'duration': 0.0, 'date': '2023-03-21T19:43:07.967829'}
