@@ -1,1 +1,1 @@
-Una serie de script y herramientas que sirven como una herramienta multi-uso
+Scripts y herramientas que otorgan una serie de funciones
